@@ -69,7 +69,7 @@ matrix:
               - master
               - /^\d+\.\d+\.\d+$/
 install:
-  - git clone -b 'vv1.12.13+hotfix.6' --depth 1 https://github.com/flutter/flutter.git
+  - git clone -b 'v1.12.13+hotfix.6' --depth 1 https://github.com/flutter/flutter.git
   - export PATH="$PATH:`pwd`/flutter/bin"
 cache:
   directories:
