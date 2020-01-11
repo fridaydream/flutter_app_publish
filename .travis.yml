@@ -74,4 +74,3 @@ install:
 cache:
   directories:
     - $HOME/.pub-cache
-
