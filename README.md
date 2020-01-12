@@ -1,6 +1,7 @@
 # flutter_app_publish
 
-![Travis (.com)](https://img.shields.io/travis/com/fridaydream/flutter_app_publish)
+
+![](https://travis-ci.com/fridaydream/flutter_app_publish.svg?branch=master)
 
 A new Flutter application.
 
