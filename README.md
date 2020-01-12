@@ -1,5 +1,7 @@
 # flutter_app_publish
 
+![Travis (.com)](https://img.shields.io/travis/com/fridaydream/flutter_app_publish)
+
 A new Flutter application.
 
 ## Getting Started
